@@ -1,5 +1,4 @@
 # udacity-map-project
-Neighborhood Project for Udacity Full Stack Nanodegree.
 
 This project is a front-end web project that uses two different API's for dispaying places in San Francisco where I like to see live music. The page will display a list of my favorite venues on the left, and when a user clicks on the venue names they can see a marker on a google map and can also see a list of upcoming performances in the info window. They can click on any event and will be taken to the Song Kick web page where they can get additional information, buy tickets to the performance, etc.
 
