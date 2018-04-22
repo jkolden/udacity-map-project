@@ -2,7 +2,7 @@
 
 This project is a front-end web project that uses two different API's for dispaying places in San Francisco where I like to see live music. The page will display a list of my favorite venues on the left, and when a user clicks on the venue names they can see a marker on a google map and can also see a list of upcoming performances in the info window. They can click on any event and will be taken to the Song Kick web page where they can get additional information, buy tickets to the performance, etc.
 
-Information about the API's that were used for this project are:
+Information about the API's that were used for this project can be found at the following links:
 1. Google Maps API: https://developers.google.com/maps/
 2. Song Kick API: https://www.songkick.com/developer
 
@@ -24,3 +24,4 @@ You can use this application via a desktop or mobile device. Here are some featu
 4. You can also click a marker to see the same information described above.
 5. If running this on a mobile device, you can click the collapse menu icon to hide the side panel to give you more room to view the map.
 
+<img width="1193" alt="map-project-image" src="https://user-images.githubusercontent.com/21246211/39089936-af5fd89e-4586-11e8-8521-e87de4a0383e.png">
