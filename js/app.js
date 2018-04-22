@@ -160,6 +160,11 @@ function initMap() {
   ko.applyBindings(new ViewModel());
 }
 
+// alerts the user if the map object cannot load
+function googleError() {
+    alert('Google Maps cannot load at this time. Please check your internet connection and try again later.');
+}
+
 var ViewModel = function() {
 
   const API_KEY = "Co6kY8qQPER2gGwi"; //SongKick API Key
