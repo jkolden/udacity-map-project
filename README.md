@@ -24,5 +24,4 @@ You can use this application via a desktop or mobile device. Here are some featu
 4. You can also click a marker to see the same information described above.
 5. If running this on a mobile device, you can click the collapse menu icon to hide the side panel to give you more room to view the map.
 
-https://github.com/jkolden/udacity-map-project/blob/master/img/map-project-image.png
-
+<img width="1193" alt="map-project-image" src="https://user-images.githubusercontent.com/21246211/39089936-af5fd89e-4586-11e8-8521-e87de4a0383e.png">
